@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
 <title id="title">SoHee Kim — Robotics, Embedded Systems, Intelligent Control</title>
-<desc id="desc">A teal and violet robotics banner with a walking six-legged robot and animated circuit signals.</desc>
+<desc id="desc">A teal and violet engineering banner with an animated signal core, orbiting nodes, and circuit signals.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081222"/><stop offset="1" stop-color="#1d1642"/></linearGradient>
 <linearGradient id="accent"><stop stop-color="#35e6c1"/><stop offset="1" stop-color="#9d8cff"/></linearGradient>
@@ -19,18 +19,19 @@
 </g>
 <g transform="translate(935 146)">
 <circle r="108" fill="none" stroke="#35e6c1" stroke-opacity=".14"/>
-<circle r="90" fill="none" stroke="#9d8cff" stroke-opacity=".22" stroke-dasharray="6 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/></circle>
-<g fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
-<g><path d="M-28 -22L-68 -47L-91 -25M32 0L78 0L96 27M-28 22L-60 60L-87 70"/><animateTransform attributeName="transform" type="rotate" values="-7;7;-7" dur="1.8s" repeatCount="indefinite"/></g>
-<g><path d="M28 -22L68 -47L91 -25M-32 0L-78 0L-96 27M28 22L60 60L87 70"/><animateTransform attributeName="transform" type="rotate" values="7;-7;7" dur="1.8s" repeatCount="indefinite"/></g>
+<circle r="90" fill="none" stroke="#9d8cff" stroke-opacity=".4" stroke-dasharray="22 12 4 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="url(#accent)" stroke-width="2">
+<ellipse rx="78" ry="32" transform="rotate(-32)"/>
+<ellipse rx="78" ry="32" transform="rotate(32)"/>
+<path d="M-72 0H-40M40 0H72M0 -72V-40M0 40V72"/>
+<rect x="-34" y="-34" width="68" height="68" rx="12" fill="#112a3e"/>
+<rect x="-23" y="-23" width="46" height="46" rx="7" stroke-opacity=".4"/>
+<path d="M-20 5L-12 5L-6 -9L3 12L10 -3H20" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </g>
-<g><path d="M-24 -36H24L40 -12V20L22 36H-22L-40 20V-12Z" fill="#112a3e" stroke="url(#accent)" stroke-width="3"/>
-<rect x="-23" y="-21" width="46" height="19" rx="8" fill="#35e6c1" opacity=".9"/>
-<circle cx="-11" cy="-11" r="4" fill="#091221"/><circle cx="11" cy="-11" r="4" fill="#091221"/>
-<path d="M-16 14H16M-10 23H10" stroke="#9d8cff" stroke-width="3" stroke-linecap="round"/>
-<animateTransform attributeName="transform" type="translate" values="0 -2;0 2;0 -2" dur="1.8s" repeatCount="indefinite"/>
-</g>
-<circle cx="0" cy="-54" r="5" fill="#35e6c1"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<g fill="#35e6c1"><circle cx="-72" r="5"/><circle cx="72" r="5"/><circle cy="-72" r="5"/><circle cy="72" r="5"/>
+<animate attributeName="opacity" values=".4;1;.4" dur="3s" repeatCount="indefinite"/></g>
+<g><circle cx="78" r="4" fill="#b8aaff"/><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/></g>
+<g font-family="Arial, Helvetica, sans-serif" fill="#b1bfdc" font-size="10" text-anchor="middle"><text y="-117">DESIGN</text><text y="130">CONTROL · INTELLIGENCE</text></g>
 </g>
 <rect x="68" y="252" width="210" height="3" rx="2" fill="url(#accent)"><animate attributeName="width" values="170;250;170" dur="5s" repeatCount="indefinite"/></rect>
 </svg>
