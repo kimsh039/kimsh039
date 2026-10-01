@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/robotics-banner.svg" width="100%" alt="SoHee Kim — animated hexapod robotics banner" />
+<img src="./assets/robotics-banner.svg" width="100%" alt="SoHee Kim — animated engineering systems banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=35C9B0&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+robots+that+move%2C+sense%2C+and+adapt;RRC+Hexapod+%7C+My+flagship+project;Mechanical+Design+%2B+Embedded+Control+%2B+AI" width="100%" alt="Building robots that move, sense, and adapt — RRC Hexapod, my flagship project" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=35C9B0&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+robots+that+move%2C+sense%2C+and+adapt;Robotics+%7C+Control+%7C+Physical+AI;Mechanical+Design+%2B+Embedded+Control+%2B+AI" width="100%" alt="Robotics, control, physical AI, mechanical design, and embedded systems" />
 
 **Mechanical Engineering × Electronics × AI Robotics**  
 Inha University · Incheon, Republic of Korea
