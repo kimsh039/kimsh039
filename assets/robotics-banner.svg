@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">SoHee Kim — Robotics, Embedded Systems, Intelligent Control</title>
+<desc id="desc">A teal and violet robotics banner with a walking six-legged robot and animated circuit signals.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081222"/><stop offset="1" stop-color="#1d1642"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#35e6c1"/><stop offset="1" stop-color="#9d8cff"/></linearGradient>
+<pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#8aa4c8" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+<path d="M0 265 Q300 220 600 260 T1200 238 V300 H0Z" fill="#35e6c1" opacity=".06"><animate attributeName="d" values="M0 265 Q300 220 600 260 T1200 238 V300 H0Z;M0 250 Q300 275 600 245 T1200 265 V300 H0Z;M0 265 Q300 220 600 260 T1200 238 V300 H0Z" dur="8s" repeatCount="indefinite"/></path>
+<g fill="none" stroke="#35e6c1" stroke-width="2" opacity=".35"><path d="M0 75H85L110 100H155M0 190H100L140 230H205M1020 52H1080L1100 72H1200M1010 242H1070L1100 212H1200"/>
+<path d="M0 75H85L110 100H155M1010 242H1070L1100 212H1200" stroke="#ad9cff" stroke-width="3" stroke-dasharray="14 220"><animate attributeName="stroke-dashoffset" from="240" to="0" dur="3s" repeatCount="indefinite"/></path></g>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="68" y="68" fill="#35e6c1" font-size="13" letter-spacing="4">BUILDING SYSTEMS THAT MOVE</text>
+<text x="64" y="137" fill="#f5f8ff" font-size="62" font-weight="700">SoHee Kim</text>
+<text x="68" y="179" fill="#c6d1eb" font-size="20">Robotics · Embedded Systems · Intelligent Control</text>
+<text x="68" y="219" fill="#8fa3c9" font-size="15">INHA UNIVERSITY  /  MECHANICAL × ELECTRONICS × AI</text>
+</g>
+<g transform="translate(935 146)">
+<circle r="108" fill="none" stroke="#35e6c1" stroke-opacity=".14"/>
+<circle r="90" fill="none" stroke="#9d8cff" stroke-opacity=".22" stroke-dasharray="6 12"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+<g><path d="M-28 -22L-68 -47L-91 -25M32 0L78 0L96 27M-28 22L-60 60L-87 70"/><animateTransform attributeName="transform" type="rotate" values="-7;7;-7" dur="1.8s" repeatCount="indefinite"/></g>
+<g><path d="M28 -22L68 -47L91 -25M-32 0L-78 0L-96 27M28 22L60 60L87 70"/><animateTransform attributeName="transform" type="rotate" values="7;-7;7" dur="1.8s" repeatCount="indefinite"/></g>
+</g>
+<g><path d="M-24 -36H24L40 -12V20L22 36H-22L-40 20V-12Z" fill="#112a3e" stroke="url(#accent)" stroke-width="3"/>
+<rect x="-23" y="-21" width="46" height="19" rx="8" fill="#35e6c1" opacity=".9"/>
+<circle cx="-11" cy="-11" r="4" fill="#091221"/><circle cx="11" cy="-11" r="4" fill="#091221"/>
+<path d="M-16 14H16M-10 23H10" stroke="#9d8cff" stroke-width="3" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="translate" values="0 -2;0 2;0 -2" dur="1.8s" repeatCount="indefinite"/>
+</g>
+<circle cx="0" cy="-54" r="5" fill="#35e6c1"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="68" y="252" width="210" height="3" rx="2" fill="url(#accent)"><animate attributeName="width" values="170;250;170" dur="5s" repeatCount="indefinite"/></rect>
+</svg>
