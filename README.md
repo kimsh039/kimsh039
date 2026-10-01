@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/robotics-banner.svg" width="100%" alt="SoHee Kim — animated engineering systems banner" />
+<img src="https://raw.githubusercontent.com/kimsh039/kimsh039/ba484f9375a4020a5ed4dff6be5f752c68a8f819/assets/robotics-banner.svg" width="100%" alt="SoHee Kim — animated engineering systems banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=35C9B0&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+robots+that+move%2C+sense%2C+and+adapt;Robotics+%7C+Control+%7C+Physical+AI;Mechanical+Design+%2B+Embedded+Control+%2B+AI" width="100%" alt="Robotics, control, physical AI, mechanical design, and embedded systems" />
 
