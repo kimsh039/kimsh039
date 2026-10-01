@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm SoHee Kim 👋
+<img src="./assets/robotics-banner.svg" width="100%" alt="SoHee Kim — animated hexapod robotics banner" />
 
-### Robotics · Embedded Systems · Intelligent Control
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=3200&amp;pause=1000&amp;color=35C9B0&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+robots+that+move%2C+sense%2C+and+adapt;RRC+Hexapod+%7C+My+flagship+project;Mechanical+Design+%2B+Embedded+Control+%2B+AI" width="100%" alt="Building robots that move, sense, and adapt — RRC Hexapod, my flagship project" />
 
 **Mechanical Engineering × Electronics × AI Robotics**  
 Inha University · Incheon, Republic of Korea
